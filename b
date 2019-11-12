@@ -5,7 +5,7 @@
         var url = "https://yanghakoo.github.io/test/"
         var exact = "second.html" 
 	
-   	window.location.replace("/a.html")
+   	window.location.replace( url + "a.html")
         </script>
     </head>
 
